@@ -52,9 +52,10 @@ export default {
   //box-shadow: 10px 10px 5px rgba(0, 0, 0,0.6);
   //border-radius: 5px;
   //width: 200px;
+  
 
   button{
-    background-color: rgb(55, 151, 175);
+    background-color: rgb(173, 175, 55);
     border: none;
     color: white;
     padding: 15px 32px;
